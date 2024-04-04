@@ -52,9 +52,9 @@ redirect_from:
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://0YJ.github.io/images/left.webp">
+  <img height="100" width="100" src="https://0YJ.github.io/images/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0YJ&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://0YJ.github.io/images/right.webp">
+  <img height="100" width="100" src="https://0YJ.github.io/images/right.webp">
 </p>
 
 #
