@@ -254,10 +254,10 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <p align="center">
 
-  <img width="75%" src="metrics.classic.svg"/>
-  <img width="75%" src="metrics.plugin.achievements.compact.svg"/>
-  <img src="metrics.plugin.isocalendar.svg" width="75%"/>
-  <img src="metrics.plugin.leetcode.svg" width="75%"/>
+  <img width="75%" src="https://github.com/0YJ/0YJ/blob/master/metrics.classic.svg"/>
+  <img width="75%" src="https://github.com/0YJ/0YJ/blob/master/metrics.plugin.achievements.compact.svg"/>
+  <img src="https://github.com/0YJ/0YJ/blob/master/metrics.plugin.isocalendar.svg" width="75%"/>
+  <img src="https://github.com/0YJ/0YJ/blob/master/metrics.plugin.leetcode.svg" width="75%"/>
 </p>
 
 <h1>
