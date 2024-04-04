@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 <h1 align="center">
-  <img src="https://github.com/0YJ/0YJ/tree/master/GIF/heart.gif" width="40px">
+  <img src="https://github.com/0YJ/0YJ/blob/master/GIF/heart.gif" width="40px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-  <img src="GIF/Earth.gif" width="24px">
+  <img src="https://github.com/0YJ/0YJ/blob/master/GIF/Hi.gif" width="40px" />
+  <img src="https://github.com/0YJ/0YJ/blob/master/GIF/Earth.gif" width="24px">
 </h1>
 
 <br/>
