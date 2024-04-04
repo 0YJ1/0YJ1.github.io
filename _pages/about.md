@@ -119,32 +119,6 @@ redirect_from:
 <br/>
 
 ![3D Profile](https://0YJ.github.io/images/profile-night-rainbow.svg)
-
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@      ,.,						@@
-@@  ('=(""")=')                                   	@@
-@@  '))|*_*|(('						@@
-@@  (' \ = / ')  Programming isn't about what you know	@@
-@@   ' _) (_ '	   It's about what you can figure out	@@
-@@   /|'~~~'|\	 					@@
-@@  /,(_   _),\	 	 .----------------------------.	@@
-@@  \\ \___/ //		 | while( ! (succed=try() ) ) |	@@
-@@   '\/   \/'		 '----------------------------'	@@
-@@    :__,__:						@@
-@@    \  /  /		        			@@
-@@     \/  /						@@
-@@     (  ;    	 Testing leads to failure		@@
-@@      \  \	  and failure leads to understanding 	@@
-@@       \ |						@@
-@@ 0YJ^  \\/)						@@
-@@     .//_/						@@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://0YJ.github.io/images/github-contribution-grid-snake.svg)
 
