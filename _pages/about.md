@@ -52,9 +52,9 @@ redirect_from:
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
+  <img height="150" width="150" src="https://0YJ.github.io/images/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0YJ&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
+  <img height="150" width="150" src="https://0YJ.github.io/images/right.webp">
 </p>
 
 #
@@ -118,7 +118,7 @@ redirect_from:
 </details>
 <br/>
 
-![3D Profile](https://github.com/0YJ/0YJ/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://0YJ.github.io/images/profile-night-rainbow.svg)
 
 <h4 align="center">
   
@@ -146,7 +146,7 @@ redirect_from:
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/0YJ/0YJ/blob/master/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://0YJ.github.io/images/github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -254,56 +254,56 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <p align="center">
 
-  <img width="75%" src="https://github.com/0YJ/0YJ/blob/master/metrics.classic.svg"/>
-  <img width="75%" src="https://github.com/0YJ/0YJ/blob/master/metrics.plugin.achievements.compact.svg"/>
-  <img src="https://github.com/0YJ/0YJ/blob/master/metrics.plugin.isocalendar.svg" width="75%"/>
-  <img src="https://github.com/0YJ/0YJ/blob/master/metrics.plugin.leetcode.svg" width="75%"/>
+  <img width="75%" src="https://0YJ.github.io/images/metrics.classic.svg"/>
+  <img width="75%" src="https://0YJ.github.io/images/metrics.plugin.achievements.compact.svg"/>
+  <img src="https://0YJ.github.io/images/metrics.plugin.isocalendar.svg" width="75%"/>
+  <img src="https://0YJ.github.io/images/metrics.plugin.leetcode.svg" width="75%"/>
 </p>
 
 <h1>
   Connect With Me
-  <img src="https://github.com/0YJ/0YJ/blob/master/GIF/Handshake.gif" height="25px">
+  <img src="https://0YJ.github.io/images/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://0YJ.github.io/images/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/0YJ">
-    <code><img src="https://github.com/0YJ/0YJ/blob/master/SVG/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://0YJ.github.io/images/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
   <a href="https://www.hackerrank.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/hr.webp"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/hr.webp"/></code>
   </a>
 
   <a href="http://www.codeforces.com/profile/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/cf.webp"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/cf.webp"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/@0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/he.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/yjzh" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/cc.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/lc.webp"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/lc.webp"/></code>
   </a>
 </p>
 
@@ -318,7 +318,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 #
 
-![footer](https://github.com/0YJ/0YJ/blob/master/WEBP/footer.webp)
+![footer](https://0YJ.github.io/images/footer.webp)
 
 -----
 **Credits**: [0YJ](https://github.com/0YJ)
