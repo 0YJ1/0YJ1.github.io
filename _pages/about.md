@@ -47,7 +47,7 @@ redirect_from:
   </code>
 </p> -->
 
-#
+
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
@@ -57,7 +57,7 @@ redirect_from:
   <img height="100" width="100" src="https://0YJ.github.io/images/right.webp">
 </p>
 
-#
+
 
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
@@ -79,7 +79,7 @@ redirect_from:
 <code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/70fc2f0c-e519-4062-9f7c-6943f740d347"></code>
 <code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/748b5bc1-38d6-4b5f-bc5e-72ec613f5c13"></code>
 
-#
+
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
@@ -100,7 +100,7 @@ redirect_from:
 
 <br/>
 
-#
+
 
 <details open="">
 <summary>
@@ -150,7 +150,7 @@ redirect_from:
 
 <br/>
 
-#
+
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -245,7 +245,7 @@ HTML                     9 repos             ██░░░░░░░░░�
  Last Updated on 03/04/2024 02:54:40 UTC
 <!--END_SECTION:waka-->
 
-#
+
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
@@ -312,11 +312,11 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+ 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
 
-#
+
 
 ![footer](https://0YJ.github.io/images/footer.webp)
 
